@@ -111,9 +111,9 @@ Passionné par la data et le développement logiciel, je suis un Data Engineer a
 - 🎓 Licence Statistique et Informatique Décisionnelle | Université Alioune DIOP de Bambey | 2017
 
 ## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)]([votre_lien_linkedin](https://www.linkedin.com/in/lamarana-diallo-3312a512b/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lamarana-diallo-3312a512b/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:mrdiallo77@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)]([votre_lien_github](https://github.com/mldiallo001))
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/mldiallo001)
 
 ## 🌟 Centres d'intérêt
 🏆 Data challenge | 👨‍💻 Codingame | ⚽ Football | 💡 Entreprenariat
