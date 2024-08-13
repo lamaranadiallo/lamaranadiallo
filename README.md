@@ -1,8 +1,11 @@
 # Lamarana DIALLO - 🧑‍💻 Data Engineer & Machine Learning Specialist
 
-## 🚀 À propos de moi
-Passionné par la data et le développement logiciel, je suis un Data Engineer avec une expertise en Machine Learning. Je conçois et implémente des solutions data-driven, des pipelines ETL robustes aux modèles ML sophistiqués. Mon objectif : transformer des données brutes en insights actionnables et en applications innovantes.
+## 👋 Bienvenue sur mon portfolio GitHub !
 
+Plongez dans l'univers de la data science et du machine learning à travers mes projets innovants. De l'analyse prédictive à l'optimisation des processus, découvrez comment je transforme des données complexes en solutions concrètes et impactantes.
+
+## 🚀 À propos de moi
+Passionné par la data et le développement logiciel, je suis un Data Engineer avec une expertise en Machine Learning. Je conçois et implémente des solutions data-driven, des pipelines ETL robustes aux modèles ML sophistiqués. Mon objectif : transformer des données brutes en insights actionnables et en applications innovantes qui résolvent des problèmes du monde réel.
 ## 🛠 Compétences
 
 ### Langages de programmation
