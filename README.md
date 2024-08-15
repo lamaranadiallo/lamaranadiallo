@@ -53,6 +53,33 @@ Passionné par la data et le développement logiciel, je suis un Data Engineer a
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
 
+## 📊 Statistiques GitHub 
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mldiallo001&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mldiallo001&layout=compact&theme=radical" />
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mldiallo001&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+</div>
+
+### 📈 Activité
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mldiallo001&theme=radical" alt="mldiallo001" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mldiallo001&label=Profile%20views&color=0e75b6&style=flat" alt="mldiallo001" />
+  <img src="https://img.shields.io/github/followers/mldiallo001?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/mldiallo001?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars" />
+</div>
+
 ## 💼 Projets Phares
 
 ### 🏦 [Modélisation prédictive du défaut de paiement](https://github.com/mldiallo001/Modelisation_predictive_du_defaut_de_paiement)
