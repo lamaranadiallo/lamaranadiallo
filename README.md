@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- Remplacez le lien ci-dessous par le lien vers votre bannière -->
   <img src="https://raw.githubusercontent.com/mldiallo001/mldiallo001/main/assets/ban.png" alt="Lamarana DIALLO - Data Engineer & Machine Learning Specialist" width="100%"/>
 </div>
 
@@ -54,25 +53,20 @@ Passionné par la data et le développement logiciel, je suis un Data Engineer a
 
 ## 💼 Projets Phares
 
-### 🏦 [Modélisation prédictive du défaut de paiement](https://github.com/mldiallo001/credit-scoring-model)
+### 🏦 [Modélisation prédictive du défaut de paiement](https://github.com/mldiallo001/Modelisation_predictive_du_defaut_de_paiement)
 - 🎯 Développement d'un modèle de Credit Scoring pour prédire la probabilité de défaut de paiement
 - 🔧 Technologies : Python, Scikit-learn, Pandas
 - 📊 Résultats : Précision du modèle de 97% sur les données de test
 
-### ⚡ [Prédiction de la demande en électricité](https://github.com/mldiallo001/electricity-demand-forecast)
+### ⚡ [Prédiction de la demande en électricité](https://github.com/mldiallo001/Prediction_conso_electricite)
 - 🎯 Analyse et prévision de la consommation électrique sur un horizon d'un an
 - 🔧 Technologies : Python, Pandas, Statsmodels
 - 📊 Résultats : Implémentation réussie des méthodes de Holt Winters et SARIMA
 
-### 💵 [Détection de faux billets](https://github.com/mldiallo001/counterfeit-detection)
+### 💵 [Détection de faux billets](https://github.com/mldiallo001/Classification-faux-billets)
 - 🎯 Création d'un algorithme de classification pour identifier les faux billets
 - 🔧 Technologies : Python, Scikit-learn, Matplotlib
 - 📊 Résultats : Développement d'un programme fiable pour la détection de faux billets
-
-### 📈 [Analyse des ventes](https://github.com/mldiallo001/sales-analysis-dashboard)
-- 🎯 Analyse approfondie des performances de vente et identification des segments rentables
-- 🔧 Technologies : Python, Pandas, Seaborn
-- 📊 Résultats : Création de visualisations dynamiques pour l'analyse des tendances de vente
 
 ## 👨‍💼 Expérience professionnelle
 
