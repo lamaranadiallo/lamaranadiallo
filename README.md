@@ -53,6 +53,23 @@ Passionné par la data et le développement logiciel, je suis un Data Engineer a
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
 
+## 💼 Projets
+
+### 🏦 [Modélisation prédictive du défaut de paiement](https://github.com/mldiallo001/Modelisation_predictive_du_defaut_de_paiement)
+- 🎯 Développement d'un modèle de Credit Scoring pour prédire la probabilité de défaut de paiement
+- 🔧 Technologies : Python, Scikit-learn, Pandas
+- 📊 Résultats : Précision du modèle de 97% sur les données de test
+
+### ⚡ [Prédiction de la demande en électricité](https://github.com/mldiallo001/Prediction_conso_electricite)
+- 🎯 Analyse et prévision de la consommation électrique sur un horizon d'un an
+- 🔧 Technologies : Python, Pandas, Statsmodels
+- 📊 Résultats : Implémentation réussie des méthodes de Holt Winters et SARIMA
+
+### 💵 [Détection de faux billets](https://github.com/mldiallo001/Classification-faux-billets)
+- 🎯 Création d'un algorithme de classification pour identifier les faux billets
+- 🔧 Technologies : Python, Scikit-learn, Matplotlib
+- 📊 Résultats : Développement d'un programme fiable pour la détection de faux billets
+
 ## 📊 Statistiques GitHub 
 
 <div align="center">
@@ -80,22 +97,6 @@ Passionné par la data et le développement logiciel, je suis un Data Engineer a
   <img src="https://img.shields.io/github/stars/mldiallo001?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars" />
 </div>
 
-## 💼 Projets Phares
-
-### 🏦 [Modélisation prédictive du défaut de paiement](https://github.com/mldiallo001/Modelisation_predictive_du_defaut_de_paiement)
-- 🎯 Développement d'un modèle de Credit Scoring pour prédire la probabilité de défaut de paiement
-- 🔧 Technologies : Python, Scikit-learn, Pandas
-- 📊 Résultats : Précision du modèle de 97% sur les données de test
-
-### ⚡ [Prédiction de la demande en électricité](https://github.com/mldiallo001/Prediction_conso_electricite)
-- 🎯 Analyse et prévision de la consommation électrique sur un horizon d'un an
-- 🔧 Technologies : Python, Pandas, Statsmodels
-- 📊 Résultats : Implémentation réussie des méthodes de Holt Winters et SARIMA
-
-### 💵 [Détection de faux billets](https://github.com/mldiallo001/Classification-faux-billets)
-- 🎯 Création d'un algorithme de classification pour identifier les faux billets
-- 🔧 Technologies : Python, Scikit-learn, Matplotlib
-- 📊 Résultats : Développement d'un programme fiable pour la détection de faux billets
 
 ## 👨‍💼 Expérience professionnelle
 
