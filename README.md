@@ -1,4 +1,15 @@
-# Lamarana DIALLO - 🧑‍💻 Data Engineer & Machine Learning Specialist
+<div align="center">
+  <!-- Remplacez le lien ci-dessous par le lien vers votre bannière -->
+  <img src="https://raw.githubusercontent.com/mldiallo001/mldiallo001/main/assets/ban.png" alt="Lamarana DIALLO - Data Engineer & Machine Learning Specialist" width="100%"/>
+</div>
+
+<h1 align="center">Lamarana DIALLO - 🧑‍💻 Data Engineer & Machine Learning Specialist</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lamarana-diallo-3312a512b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" /></a>
+  <a href="mailto:mrdiallo77@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <a href="https://github.com/mldiallo001"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /></a>
+</p>
 
 ## 👋 Bienvenue sur mon portfolio GitHub !
 
@@ -6,6 +17,7 @@ Plongez dans l'univers de la data science et du machine learning à travers mes 
 
 ## 🚀 À propos de moi
 Passionné par la data et le développement logiciel, je suis un Data Engineer avec une expertise en Machine Learning. Je conçois et implémente des solutions data-driven, des pipelines ETL robustes aux modèles ML sophistiqués. Mon objectif : transformer des données brutes en insights actionnables et en applications innovantes qui résolvent des problèmes du monde réel.
+
 ## 🛠 Compétences
 
 ### Langages de programmation
@@ -40,69 +52,46 @@ Passionné par la data et le développement logiciel, je suis un Data Engineer a
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 
-## 💼 Projets
+## 💼 Projets Phares
 
-### 🏦 [Modélisation prédictive du défaut de paiement](https://github.com/mldiallo001/Modelisation_predictive_du_defaut_de_paiement)
+### 🏦 [Modélisation prédictive du défaut de paiement](https://github.com/mldiallo001/credit-scoring-model)
 - 🎯 Développement d'un modèle de Credit Scoring pour prédire la probabilité de défaut de paiement
 - 🔧 Technologies : Python, Scikit-learn, Pandas
 - 📊 Résultats : Précision du modèle de 97% sur les données de test
 
-### ⚡ [Prédiction de la demande en électricité](https://github.com/mldiallo001/Prediction_conso_electricite)
+### ⚡ [Prédiction de la demande en électricité](https://github.com/mldiallo001/electricity-demand-forecast)
 - 🎯 Analyse et prévision de la consommation électrique sur un horizon d'un an
 - 🔧 Technologies : Python, Pandas, Statsmodels
 - 📊 Résultats : Implémentation réussie des méthodes de Holt Winters et SARIMA
 
-### 💵 [Détection de faux billets](https://github.com/mldiallo001/Classification-faux-billets)
+### 💵 [Détection de faux billets](https://github.com/mldiallo001/counterfeit-detection)
 - 🎯 Création d'un algorithme de classification pour identifier les faux billets
 - 🔧 Technologies : Python, Scikit-learn, Matplotlib
 - 📊 Résultats : Développement d'un programme fiable pour la détection de faux billets
 
-### 📈 [Analyse des ventes](#)
+### 📈 [Analyse des ventes](https://github.com/mldiallo001/sales-analysis-dashboard)
 - 🎯 Analyse approfondie des performances de vente et identification des segments rentables
 - 🔧 Technologies : Python, Pandas, Seaborn
 - 📊 Résultats : Création de visualisations dynamiques pour l'analyse des tendances de vente
 
+## 👨‍💼 Expérience professionnelle
+
 ### 💻 Développeur Python/C++ | Netixis | Oct. 2023 - Présent
-- 🔧 Développement d'applications robustes avec Python-Flask et C++ sous environnement Linux
-- 🖥️ Conception et implémentation d'interfaces utilisateur intuitives avec Qt
-- 🌐 Création d'API REST et développement de serveurs performants en C++
-- 🐳 Utilisation de Docker pour la containerisation et le déploiement d'applications
-- 🤝 Collaboration étroite avec des équipes multidisciplinaires pour l'intégration de systèmes complexes
-- 📊 Modélisation de bases de données avec SQL Server Management Studio
-- 🔍 Réalisation de tests unitaires et d'intégration avec CPP Unit
-- 📈 Gestion de projet agile avec Jira et documentation technique sur Confluence
+- Développement d'applications avec Python-Flask et C++
+- Conception d'interfaces utilisateur avec Qt
+- Implémentation d'API REST et développement de serveurs en C++
 
 ### 🔬 Data Scientist | Observatoire Midi-Pyrénées | Fév. 2023 - Juil. 2023
-- 🧠 Développement de modèles prédictifs sophistiqués utilisant des processus gaussiens multi-tâches pour l'hydrologie karstique
-- 🔄 Mise en place de pipelines ETL pour la collecte, le traitement et l'intégration de données hydrologiques complexes
-- 📊 Analyse approfondie des données pour prédire les variations de débit avec une haute précision
-- 🧪 Validation rigoureuse des modèles à travers des protocoles de test approfondis
-- 👥 Collaboration active avec des experts du domaine pour affiner et interpréter les modèles
-- 📝 Rédaction de rapports techniques détaillés sur la méthodologie et les résultats obtenus
+- Développement de modèles prédictifs pour l'hydrologie karstique
+- Traitement et intégration de données hydrologiques complexes
 
 ### 📊 Data Analyst / BI | PrintOclock | Déc. 2020 - Mai 2022
-- 📈 Réalisation d'analyses statistiques poussées et segmentation de la base clientèle pour optimiser les stratégies marketing
-- 🖥️ Conception et développement de tableaux de bord interactifs avec Power BI pour la visualisation efficace des données
-- 🤝 Collaboration interdépartementale pour fournir un soutien analytique aux équipes opérationnelles et marketing
-- 🔍 Identification des tendances clés et des opportunités d'amélioration des processus business
-- 📊 Mise en place de KPIs pertinents pour suivre la performance de l'entreprise
-- 🗣️ Présentation régulière des insights data-driven aux dirigeants pour guider la prise de décision
+- Analyse statistique et segmentation de la base clientèle
+- Création de tableaux de bord interactifs pour la visualisation des données
 
 ### 🎓 Data Scientist | Université de PAU | Mars 2020 - Sept. 2020
-- 📦 Développement de packages R innovants pour la modélisation des captures de poissons en collaboration avec l'Ifremer-LERAR d'Anglet
-- 🧹 Mise en œuvre de techniques avancées de nettoyage et de préparation des données
-- 🔍 Conduite d'analyses exploratoires approfondies pour identifier des patterns et des relations clés dans les données
-- 🧠 Application de techniques de machine learning pour des modélisations prédictives avancées
-- 📊 Création de visualisations de données percutantes pour communiquer les résultats
-- 📝 Rédaction de rapports détaillés sur les méthodologies utilisées et les résultats obtenus
-
-### 📊 Data Scientist | H.A.L.D. Dakar, Sénégal | Sept. 2018 - Mars 2019
-- 🩺 Réalisation d'une analyse de survie approfondie sur les maladies cardiovasculaires
-- 📊 Utilisation du modèle de Cox pour analyser la durée de survie des patients
-- 🔍 Identification et nettoyage de sources de données pertinentes pour l'étude
-- 🧠 Analyse approfondie des facteurs de risque associés aux maladies cardiovasculaires
-- 📈 Développement de modèles prédictifs pour évaluer les risques de maladies cardiovasculaires
-- 📝 Présentation des résultats et recommandations aux équipes médicales pour améliorer la prise en charge des patients
+- Développement de packages R pour la modélisation des captures de poissons
+- Analyse exploratoire et modélisation avancée de données
 
 ## 🎓 Formation
 - 🏆 Master Méthodes stochastiques et informatiques pour la Décision | Université de PAU (UPPA) | 2023
@@ -110,10 +99,9 @@ Passionné par la data et le développement logiciel, je suis un Data Engineer a
 - 🎓 Master Statistique et Informatique Décisionnelle | Université Alioune DIOP de Bambey | 2019
 - 🎓 Licence Statistique et Informatique Décisionnelle | Université Alioune DIOP de Bambey | 2017
 
-## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lamarana-diallo-3312a512b/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:mrdiallo77@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/mldiallo001)
-
 ## 🌟 Centres d'intérêt
 🏆 Data challenge | 👨‍💻 Codingame | ⚽ Football | 💡 Entreprenariat
+
+---
+
+👀 Intéressé par mon profil ? N'hésitez pas à explorer mes projets ou à me contacter pour discuter de collaborations potentielles !
