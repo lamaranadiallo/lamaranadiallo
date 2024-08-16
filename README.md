@@ -17,7 +17,6 @@ Plongez dans l'univers de la data science et du machine learning à travers mes 
 ## 🚀 À propos de moi
 Passionné par la data et le développement logiciel, je suis un Data Engineer avec une expertise en Machine Learning. Je conçois et implémente des solutions data-driven, des pipelines ETL robustes aux modèles ML sophistiqués. Mon objectif : transformer des données brutes en insights actionnables et en applications innovantes qui résolvent des problèmes du monde réel.
 
-
 ## 🛠 Compétences
 
 ### Langages de programmation
@@ -52,6 +51,32 @@ Passionné par la data et le développement logiciel, je suis un Data Engineer a
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
+
+### Gestion de Projet
+![Agile](https://img.shields.io/badge/-Agile-blue?style=flat-square&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/-Scrum-orange?style=flat-square&logo=scrumalliance&logoColor=white)
+![Cycle en V](https://img.shields.io/badge/-Cycle%20en%20V-lightgrey?style=flat-square)
+
+## 📊 Gestion de Projet
+
+Au cours de ma carrière, j'ai acquis une solide expérience dans différentes méthodologies de gestion de projet, me permettant de m'adapter efficacement à divers environnements de travail et exigences de projet.
+
+### Méthodologie Agile
+- **Scrum** : Expérience en tant que membre d'équipe Scrum, participant activement aux cérémonies Scrum (sprint planning, daily stand-ups, sprint reviews, et rétrospectives).
+- **Kanban** : Utilisation de tableaux Kanban pour la visualisation et l'optimisation du flux de travail.
+- **Outils** : Maîtrise de Jira et Trello pour la gestion de projets Agiles.
+
+### Cycle en V
+- Expérience dans la mise en œuvre du modèle en V pour des projets nécessitant une approche plus structurée et séquentielle.
+- Compétences en planification détaillée, gestion des exigences, et tests rigoureux à chaque étape du développement.
+
+### Compétences transversales
+- Gestion efficace des parties prenantes
+- Planification et suivi de projet
+- Gestion des risques et des problèmes
+- Communication claire et régulière sur l'avancement du projet
+
+Mon expérience dans ces méthodologies me permet de choisir et d'adapter l'approche la plus appropriée en fonction des besoins spécifiques de chaque projet, assurant ainsi une exécution efficace et des résultats de haute qualité.
 
 ## 💼 Projets
 
