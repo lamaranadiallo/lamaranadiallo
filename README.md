@@ -80,7 +80,7 @@ Mon expérience dans ces méthodologies me permet de choisir et d'adapter l'appr
 
 ## 💼 Projets
 
-### 🏦 [Modélisation prédictive du défaut de paiement](https://github.com/mldiallo001/Modelisation_predictive_du_defaut_de_paiement)
+### 🏦 [Modélisation prédictive du défaut de paiement](https://github.com/mldiallo001/Modelisation_predictive_du_defaut_de_paiement/blob/main/Analyse.ipynb)
 - 🎯 Développement d'un modèle de Credit Scoring pour prédire la probabilité de défaut de paiement
 - 🔧 Technologies : Python, Scikit-learn, Pandas
 - 📊 Résultats : Précision du modèle de 97% sur les données de test
