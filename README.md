@@ -80,6 +80,11 @@ Mon expérience dans ces méthodologies me permet de choisir et d'adapter l'appr
 
 ## 💼 Projets
 
+### 🍽️ [Optimisation des Opérations d'un Restaurant par l'Analyse de Données et la Prévision des Commandes](https://github.com/mldiallo001/Analyse-Restaurant)
+- 🎯 Analyse et prévision des commandes d'un restaurant sur un horizon de trois mois
+- 🔧 Technologies : Python, Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodels
+- 📊 Résultats : Implémentation réussie des modèles de Régression Linéaire, Random Forest et ARIMA, avec ARIMA montrant les meilleures performances (RMSE de 1.50)
+
 ### 🏦 [Modélisation prédictive du défaut de paiement](https://github.com/mldiallo001/Modelisation_predictive_du_defaut_de_paiement/blob/main/Analyse.ipynb)
 - 🎯 Développement d'un modèle de Credit Scoring pour prédire la probabilité de défaut de paiement
 - 🔧 Technologies : Python, Scikit-learn, Pandas
