@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/mldiallo001/mldiallo001/main/assets/ban.png" alt="Lamarana DIALLO - Data Engineer & Machine Learning Specialist" width="100%"/>
 </div>
 
-<h1 align="center">Lamarana DIALLO - 🧑‍💻 Data Engineer & Machine Learning Specialist</h1>
+<h1 align="center">🧑‍💻 Data Scientist & Machine Learning Specialist</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lamarana-diallo-3312a512b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" /></a>
