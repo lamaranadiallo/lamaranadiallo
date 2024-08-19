@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mldiallo001/mldiallo001/main/assets/ban.png" alt="Lamarana DIALLO - Data Engineer & Machine Learning Specialist" width="100%"/>
+  <img src="https://raw.githubusercontent.com/mldiallo001/mldiallo001/main/assets/ban.png" alt="Lamarana DIALLO - Data Scientist & Machine Learning Specialist" width="100%"/>
 </div>
 
 <h1 align="center">🧑‍💻 Data Scientist & Machine Learning Specialist</h1>
@@ -10,12 +10,37 @@
   <a href="https://github.com/mldiallo001"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /></a>
 </p>
 
-## 👋 Bienvenue sur mon portfolio GitHub !
+## 👋 Bienvenue sur mon portfolio !
 
 Plongez dans l'univers de la data science et du machine learning à travers mes projets innovants. De l'analyse prédictive à l'optimisation des processus, découvrez comment je transforme des données complexes en solutions concrètes et impactantes.
 
 ## 🚀 À propos de moi
-Passionné par la data et le développement logiciel, je suis un Data Engineer avec une expertise en Machine Learning. Je conçois et implémente des solutions data-driven, des pipelines ETL robustes aux modèles ML sophistiqués. Mon objectif : transformer des données brutes en insights actionnables et en applications innovantes qui résolvent des problèmes du monde réel.
+Passionné par la data et le développement logiciel, je suis un Data Scientist avec une expertise en Machine Learning. Je conçois et implémente des solutions data-driven, des pipelines ETL robustes aux modèles ML sophistiqués. Mon objectif : transformer des données brutes en insights actionnables et en applications innovantes qui résolvent des problèmes du monde réel.
+
+## 👨‍💼 Expérience professionnelle
+
+### 💻 Développeur Python/C++ | Netixis | Oct. 2023 - Présent
+- Développement d'applications avec Python-Flask et C++
+- Conception d'interfaces utilisateur avec Qt
+- Implémentation d'API REST et développement de serveurs en C++
+
+### 🔬 Data Scientist | Observatoire Midi-Pyrénées | Fév. 2023 - Juil. 2023
+- Développement de modèles prédictifs pour l'hydrologie karstique
+- Traitement et intégration de données hydrologiques complexes
+
+### 📊 Data Analyst / BI | PrintOclock | Déc. 2020 - Mai 2022
+- Analyse statistique et segmentation de la base clientèle
+- Création de tableaux de bord interactifs pour la visualisation des données
+
+### 📊 Data Scientist | Université de PAU | Mars 2020 - Sept. 2020
+- Développement de packages R pour la modélisation des captures de poissons
+- Analyse exploratoire et modélisation avancée de données
+
+## 🎓 Formation
+- 🎓 Master Méthodes stochastiques et informatiques pour la Décision | Université de PAU (UPPA) | 2023
+- 🏅 Parcours Data Analyst | OpenClassrooms | 2022
+- 🎓 Master Statistique et Informatique Décisionnelle | Université Alioune DIOP de Bambey | 2019
+- 🎓 Licence Statistique et Informatique Décisionnelle | Université Alioune DIOP de Bambey | 2017
 
 ## 🛠 Compétences
 
@@ -126,32 +151,6 @@ Mon expérience dans ces méthodologies me permet de choisir et d'adapter l'appr
   <img src="https://img.shields.io/github/followers/mldiallo001?label=Followers&style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/mldiallo001?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars" />
 </div>
-
-
-## 👨‍💼 Expérience professionnelle
-
-### 💻 Développeur Python/C++ | Netixis | Oct. 2023 - Présent
-- Développement d'applications avec Python-Flask et C++
-- Conception d'interfaces utilisateur avec Qt
-- Implémentation d'API REST et développement de serveurs en C++
-
-### 🔬 Data Scientist | Observatoire Midi-Pyrénées | Fév. 2023 - Juil. 2023
-- Développement de modèles prédictifs pour l'hydrologie karstique
-- Traitement et intégration de données hydrologiques complexes
-
-### 📊 Data Analyst / BI | PrintOclock | Déc. 2020 - Mai 2022
-- Analyse statistique et segmentation de la base clientèle
-- Création de tableaux de bord interactifs pour la visualisation des données
-
-### 🎓 Data Scientist | Université de PAU | Mars 2020 - Sept. 2020
-- Développement de packages R pour la modélisation des captures de poissons
-- Analyse exploratoire et modélisation avancée de données
-
-## 🎓 Formation
-- 🏆 Master Méthodes stochastiques et informatiques pour la Décision | Université de PAU (UPPA) | 2023
-- 🏅 Parcours Data Analyst | OpenClassrooms | 2022
-- 🎓 Master Statistique et Informatique Décisionnelle | Université Alioune DIOP de Bambey | 2019
-- 🎓 Licence Statistique et Informatique Décisionnelle | Université Alioune DIOP de Bambey | 2017
 
 ## 🌟 Centres d'intérêt
 🏆 Data challenge | 👨‍💻 Codingame | ⚽ Football | 💡 Entreprenariat
