@@ -37,10 +37,10 @@ Passionné par la data et le développement logiciel, je suis un Data Scientist 
 - Analyse exploratoire et modélisation avancée de données
 
 ## 🎓 Formation
-- 🎓 Master Méthodes stochastiques et informatiques pour la Décision | Université de PAU (UPPA) | 2023
-- 🏅 Parcours Data Analyst | OpenClassrooms | 2022
-- 🎓 Master Statistique et Informatique Décisionnelle | Université Alioune DIOP de Bambey | 2019
-- 🎓 Licence Statistique et Informatique Décisionnelle | Université Alioune DIOP de Bambey | 2017
+- 🎓 2023 | **Master Méthodes stochastiques et informatiques pour la Décision** | Université de PAU (UPPA) 
+- 🏅 2022 | **Parcours Data Analyst** | OpenClassrooms
+- 🎓 2019 | **Master Statistique et Informatique Décisionnelle** | Université Alioune DIOP de Bambey
+- 🎓 2017 | **Licence Statistique et Informatique Décisionnelle** | Université Alioune DIOP de Bambey | 2017
 
 ## 🛠 Compétences
 
@@ -110,7 +110,7 @@ Mon expérience dans ces méthodologies me permet de choisir et d'adapter l'appr
 - 🔧 Technologies : Python, Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodels
 - 📊 Résultats : Implémentation réussie des modèles de Régression Linéaire, Random Forest et ARIMA, avec ARIMA montrant les meilleures performances (RMSE de 1.50)
 
-### 🏦 [Modélisation prédictive du défaut de paiement](https://github.com/mldiallo001/Modelisation_predictive_du_defaut_de_paiement/blob/main/Analyse.ipynb)
+### 🏦 [Modélisation prédictive du défaut de paiement](https://github.com/mldiallo001/Modelisation_predictive_du_defaut_de_paiement)
 - 🎯 Développement d'un modèle de Credit Scoring pour prédire la probabilité de défaut de paiement
 - 🔧 Technologies : Python, Scikit-learn, Pandas
 - 📊 Résultats : Précision du modèle de 97% sur les données de test
