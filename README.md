@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mldiallo001/mldiallo001/main/assets/head.gif"  alt="Lamarana DIALLO - Data Scientist & Machine Learning Specialist" width="100%" height="250"/>
+  <img src="https://raw.githubusercontent.com/mldiallo001/mldiallo001/main/assets/head.gif"  alt="Lamarana DIALLO - Data Scientist & Machine Learning Specialist" width="100%" height="350"/>
 </div>
 
 <h1 align="center">🧑‍💻 Data Scientist & Machine Learning Specialist</h1>
