@@ -50,6 +50,7 @@ Passionné par la data et le développement logiciel, je suis un Data Scientist 
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white)
 
 ### Data Science & Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
