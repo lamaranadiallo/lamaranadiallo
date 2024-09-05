@@ -1,13 +1,13 @@
 <h1 align="center">🧑‍💻 Data Scientist & Machine Learning Specialist</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mldiallo001/mldiallo001/main/assets/head.gif"  alt="Lamarana DIALLO - Data Scientist & Machine Learning Specialist" width="100%" height="350"/>
+  <img src="https://raw.githubusercontent.com/lamaranadiallo/lamaranadiallo/main/assets/head.gif"  alt="Lamarana DIALLO - Data Scientist & Machine Learning Specialist" width="100%" height="350"/>
 </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lamarana-diallo-3312a512b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" /></a>
   <a href="mailto:mrdiallo77@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
-  <a href="https://github.com/mldiallo001"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /></a>
+  <a href="https://github.com/lamaranadiallo"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /></a>
 </p>
 
 ## 👋 Bienvenue sur mon portfolio !
@@ -106,22 +106,22 @@ Mon expérience dans ces méthodologies me permet de choisir et d'adapter l'appr
 
 ## 💼 Projets
 
-### 🍽️ [Optimisation des Opérations d'un Restaurant par l'Analyse de Données et la Prévision des Commandes](https://github.com/mldiallo001/Analyse-Restaurant)
+### 🍽️ [Optimisation des Opérations d'un Restaurant par l'Analyse de Données et la Prévision des Commandes](https://github.com/lamaranadiallo/Analyse-Restaurant)
 - 🎯 Analyse et prévision des commandes d'un restaurant sur un horizon de trois mois
 - 🔧 Technologies : Python, Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodels
 - 📊 Résultats : Implémentation réussie des modèles de Régression Linéaire, Random Forest et ARIMA, avec ARIMA montrant les meilleures performances (RMSE de 1.50)
 
-### 🏦 [Modélisation prédictive du défaut de paiement](https://github.com/mldiallo001/Modelisation_predictive_du_defaut_de_paiement)
+### 🏦 [Modélisation prédictive du défaut de paiement](https://github.com/lamaranadiallo/Modelisation_predictive_du_defaut_de_paiement)
 - 🎯 Développement d'un modèle de Credit Scoring pour prédire la probabilité de défaut de paiement
 - 🔧 Technologies : Python, Scikit-learn, Pandas
 - 📊 Résultats : Précision du modèle de 97% sur les données de test
 
-### ⚡ [Prédiction de la demande en électricité](https://github.com/mldiallo001/Prediction_conso_electricite)
+### ⚡ [Prédiction de la demande en électricité](https://github.com/lamaranadiallo/Prediction_conso_electricite)
 - 🎯 Analyse et prévision de la consommation électrique sur un horizon d'un an
 - 🔧 Technologies : Python, Pandas, Statsmodels
 - 📊 Résultats : Implémentation réussie des méthodes de Holt Winters et SARIMA
 
-### 💵 [Détection de faux billets](https://github.com/mldiallo001/Classification-faux-billets)
+### 💵 [Détection de faux billets](https://github.com/lamaranadiallo/Classification-faux-billets)
 - 🎯 Création d'un algorithme de classification pour identifier les faux billets
 - 🔧 Technologies : Python, Scikit-learn, Matplotlib
 - 📊 Résultats : Développement d'un programme fiable pour la détection de faux billets
@@ -129,28 +129,28 @@ Mon expérience dans ces méthodologies me permet de choisir et d'adapter l'appr
 ## 📊 Statistiques GitHub 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mldiallo001&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mldiallo001&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lamaranadiallo&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamaranadiallo&layout=compact&theme=radical" />
 </div>
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mldiallo001&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lamaranadiallo&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
 </div>
 
 ### 📈 Activité
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mldiallo001&theme=radical" alt="mldiallo001" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lamaranadiallo&theme=radical" alt="lamaranadiallo" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mldiallo001&label=Profile%20views&color=0e75b6&style=flat" alt="mldiallo001" />
-  <img src="https://img.shields.io/github/followers/mldiallo001?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/mldiallo001?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars" />
+  <img src="https://komarev.com/ghpvc/?username=lamaranadiallo&label=Profile%20views&color=0e75b6&style=flat" alt="lamaranadiallo" />
+  <img src="https://img.shields.io/github/followers/lamaranadiallo?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/lamaranadiallo?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars" />
 </div>
 
 ## 🌟 Centres d'intérêt
