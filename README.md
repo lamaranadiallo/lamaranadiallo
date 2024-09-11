@@ -17,24 +17,9 @@ Plongez dans l'univers de la data science et du machine learning à travers mes 
 ## 🚀 À propos de moi
 Passionné par la data et le développement logiciel, je suis un Data Scientist avec une expertise en Machine Learning. Je conçois et implémente des solutions data-driven, des pipelines ETL robustes aux modèles ML sophistiqués. Mon objectif : transformer des données brutes en insights actionnables et en applications innovantes qui résolvent des problèmes du monde réel.
 
-## 👨‍💼 Expérience professionnelle
+## 💼 Expérience Professionnelle
 
-### 💻 Développeur Python/C++ | Netixis | Oct. 2023 - Présent
-- Développement d'applications avec Python-Flask et C++
-- Conception d'interfaces utilisateur avec Qt
-- Implémentation d'API REST et développement de serveurs en C++
-
-### 🔬 Data Scientist | Observatoire Midi-Pyrénées | Fév. 2023 - Juil. 2023
-- Développement de modèles prédictifs pour l'hydrologie karstique
-- Traitement et intégration de données hydrologiques complexes
-
-### 📊 Data Analyst / BI | PrintOclock | Déc. 2020 - Mai 2022
-- Analyse statistique et segmentation de la base clientèle
-- Création de tableaux de bord interactifs pour la visualisation des données
-
-### 📊 Data Scientist | Université de PAU | Mars 2020 - Sept. 2020
-- Développement de packages R pour la modélisation des captures de poissons
-- Analyse exploratoire et modélisation avancée de données
+Fort d'un parcours diversifié en data science et analyse de données, j'ai eu l'opportunité de contribuer à des projets innovants dans divers secteurs. Chez Netixis, j'ai développé des applications robustes en Python et C++, optimisant les processus d'entreprise grâce à des solutions data-driven. À l'Observatoire Midi-Pyrénées, j'ai conçu des modèles prédictifs sophistiqués (processus gaussien multi-tache) pour l'hydrologie karstique. Chez PrintOclock, j'ai dirigé des initiatives d'analyse de données qui ont augmenté l'efficacité du marketing ciblé et amélioré les taux de conversion. Ma passion pour l'innovation en data science s'est également manifestée lors de mon travail à l'Université de PAU, où j'ai développé un package R pour l'analyse écologique avancée. Chaque expérience a renforcé ma capacité à transformer des données complexes en insights actionnables, démontrant mon expertise en machine learning, visualisation de données et business intelligence.
 
 ## 🎓 Formation
 - 🎓 2023 | **Master Méthodes stochastiques et informatiques pour la Décision** | Université de PAU (UPPA) 
