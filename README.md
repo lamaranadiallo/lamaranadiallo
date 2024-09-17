@@ -21,12 +21,6 @@ Passionné par la data et le développement logiciel, je suis un Data Scientist 
 
 Fort d'un parcours diversifié en data science et analyse de données, j'ai eu l'opportunité de contribuer à des projets innovants dans divers secteurs. Chez Netixis, j'ai développé des applications robustes en Python et C++, optimisant les processus d'entreprise grâce à des solutions data-driven. À l'Observatoire Midi-Pyrénées, j'ai conçu des modèles prédictifs sophistiqués (processus gaussien multi-tache) pour l'hydrologie karstique. Chez PrintOclock, j'ai dirigé des initiatives d'analyse de données qui ont augmenté l'efficacité du marketing ciblé et amélioré les taux de conversion. Ma passion pour l'innovation en data science s'est également manifestée lors de mon travail à l'Université de PAU, où j'ai développé un package R pour l'analyse écologique avancée. Chaque expérience a renforcé ma capacité à transformer des données complexes en insights actionnables, démontrant mon expertise en machine learning, visualisation de données et business intelligence.
 
-## 🎓 Formation
-- 🎓 2023 | **Master Méthodes stochastiques et informatiques pour la Décision** | Université de PAU (UPPA) 
-- 🏅 2022 | **Parcours Data Analyst** | OpenClassrooms
-- 🎓 2019 | **Master Statistique et Informatique Décisionnelle** | Université Alioune DIOP de Bambey
-- 🎓 2017 | **Licence Statistique et Informatique Décisionnelle** | Université Alioune DIOP de Bambey | 2017
-
 ## 🛠 Compétences
 
 ### Langages de programmation
@@ -68,27 +62,6 @@ Fort d'un parcours diversifié en data science et analyse de données, j'ai eu l
 ![Scrum](https://img.shields.io/badge/-Scrum-orange?style=flat-square&logo=scrumalliance&logoColor=white)
 ![Cycle en V](https://img.shields.io/badge/-Cycle%20en%20V-lightgrey?style=flat-square)
 
-## 📊 Gestion de Projet
-
-Au cours de ma carrière, j'ai acquis une solide expérience dans différentes méthodologies de gestion de projet, me permettant de m'adapter efficacement à divers environnements de travail et exigences de projet.
-
-### Méthodologie Agile
-- **Scrum** : Expérience en tant que membre d'équipe Scrum, participant activement aux cérémonies Scrum (sprint planning, daily stand-ups, sprint reviews, et rétrospectives).
-- **Kanban** : Utilisation de tableaux Kanban pour la visualisation et l'optimisation du flux de travail.
-- **Outils** : Maîtrise de Jira et Trello pour la gestion de projets Agiles.
-
-### Cycle en V
-- Expérience dans la mise en œuvre du modèle en V pour des projets nécessitant une approche plus structurée et séquentielle.
-- Compétences en planification détaillée, gestion des exigences, et tests rigoureux à chaque étape du développement.
-
-### Compétences transversales
-- Gestion efficace des parties prenantes
-- Planification et suivi de projet
-- Gestion des risques et des problèmes
-- Communication claire et régulière sur l'avancement du projet
-
-Mon expérience dans ces méthodologies me permet de choisir et d'adapter l'approche la plus appropriée en fonction des besoins spécifiques de chaque projet, assurant ainsi une exécution efficace et des résultats de haute qualité.
-
 ## 💼 Projets
 
 ### 🍽️ [Optimisation des Opérations d'un Restaurant par l'Analyse de Données et la Prévision des Commandes](https://github.com/lamaranadiallo/Analyse-Restaurant)
@@ -106,41 +79,9 @@ Mon expérience dans ces méthodologies me permet de choisir et d'adapter l'appr
 - 🔧 Technologies : Python, Pandas, Statsmodels
 - 📊 Résultats : Implémentation réussie des méthodes de Holt Winters et SARIMA
 
+<!--
 ### 💵 [Détection de faux billets](https://github.com/lamaranadiallo/Classification-faux-billets)
 - 🎯 Création d'un algorithme de classification pour identifier les faux billets
 - 🔧 Technologies : Python, Scikit-learn, Matplotlib
 - 📊 Résultats : Développement d'un programme fiable pour la détection de faux billets
-
-## 📊 Statistiques GitHub 
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lamaranadiallo&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamaranadiallo&layout=compact&theme=radical" />
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lamaranadiallo&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
-</div>
-
-### 📈 Activité
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lamaranadiallo&theme=radical" alt="lamaranadiallo" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lamaranadiallo&label=Profile%20views&color=0e75b6&style=flat" alt="lamaranadiallo" />
-  <img src="https://img.shields.io/github/followers/lamaranadiallo?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/lamaranadiallo?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars" />
-</div>
-
-## 🌟 Centres d'intérêt
-🏆 Data challenge | 👨‍💻 Codingame | ⚽ Football | 💡 Entreprenariat
-
----
-
-👀 Intéressé par mon profil ? N'hésitez pas à explorer mes projets ou à me contacter pour discuter de collaborations potentielles !
+-->
