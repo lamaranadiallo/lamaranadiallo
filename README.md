@@ -63,7 +63,7 @@ Fort d'un parcours diversifié en data science et analyse de données, j'ai eu l
 ![Agile](https://img.shields.io/badge/-Agile-blue?style=flat-square&logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/-Scrum-orange?style=flat-square&logo=scrumalliance&logoColor=white)
 ![Cycle en V](https://img.shields.io/badge/-Cycle%20en%20V-lightgrey?style=flat-square)
-
+<!-- 
 ## 💼 Projets
 
 ### 🍽️ [Optimisation des Opérations d'un Restaurant par l'Analyse de Données et la Prévision des Commandes](https://github.com/lamaranadiallo/Analyse-Restaurant)
@@ -80,6 +80,7 @@ Fort d'un parcours diversifié en data science et analyse de données, j'ai eu l
 - 🎯 Analyse et prévision de la consommation électrique sur un horizon d'un an
 - 🔧 Technologies : Python, Pandas, Statsmodels
 - 📊 Résultats : Implémentation réussie des méthodes de Holt Winters et SARIMA
+-->
 
 <!--
 ### 💵 [Détection de faux billets](https://github.com/lamaranadiallo/Classification-faux-billets)
