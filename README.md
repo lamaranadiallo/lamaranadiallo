@@ -10,10 +10,10 @@
   <a href="https://github.com/lamaranadiallo"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /></a>
 </p>
 
-<!-- -->
+<!-- 
 ## 👋 Bienvenue sur mon profil github !
 
-Plongez dans l'univers de la data science et du machine learning à travers mes projets innovants. De l'analyse prédictive à l'optimisation des processus, découvrez comment je transforme des données complexes en solutions concrètes et impactantes.
+Plongez dans l'univers de la data science et du machine learning à travers mes projets innovants. De l'analyse prédictive à l'optimisation des processus, découvrez comment je transforme des données complexes en solutions concrètes et impactantes.-->
 
 
 ## 🚀 À propos de moi
