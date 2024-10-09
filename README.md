@@ -10,11 +10,11 @@
   <a href="https://github.com/lamaranadiallo"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /></a>
 </p>
 
-<!-- 
+<!-- -->
 ## 👋 Bienvenue sur mon profil github !
 
 Plongez dans l'univers de la data science et du machine learning à travers mes projets innovants. De l'analyse prédictive à l'optimisation des processus, découvrez comment je transforme des données complexes en solutions concrètes et impactantes. 
--->
+
 
 ## 🚀 À propos de moi
 Passionné par la data et le développement logiciel, je suis un Data Scientist avec une expertise en Machine Learning. Je conçois et implémente des solutions data-driven, des pipelines ETL robustes aux modèles ML sophistiqués. Mon objectif : transformer des données brutes en insights actionnables et en applications innovantes qui résolvent des problèmes du monde réel.
